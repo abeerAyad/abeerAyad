@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 Nice to see you.</h1>
+<h1 align="center">Hi! 👋</h1>
 <h1 align="center">I'm Abeer Ayyad</h1>
 <h3 align="center">Frontend Developer | I am also a student at  Computer and Communication Enginnering at Alazhar University from Palestine</h3>
 
