@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Html, Css, JavaScript, Bootstrap**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/abeerAyad](https://github.com/abeerAyad)
-
 - 📫 My Email: **abeerayyad2000@gmail.com**
 
 <h2>You Can Contact Me:</h2?
