@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Abeer Ayyad</h1>
-<h3 align="center">Frontend Developer | I am also a Computer and Communication Engineering at Alazhar University from Palestine</h3>
+<h3 align="center">Full Stack Developer | I am also a Computer and Communication Engineering at Alazhar University from Palestine</h3>
 
 
 
