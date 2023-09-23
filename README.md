@@ -1,9 +1,9 @@
 <h1 align="center">Hi! 👋, I'm Abeer Ayyad</h1>
-<h3 align="center">Frontend Developer | I am also a student at  Computer and Communication Enginnering at Alazhar University from Palestine</h3>
+<h3 align="center">Frontend Developer | I am also a Computer and Communication Engineering at Alazhar University from Palestine</h3>
 
 
 
-- 🌱 I’m currently learning **Html, Css, JavaScript**
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 My Email: **abeerayyad2000@gmail.com**
 
