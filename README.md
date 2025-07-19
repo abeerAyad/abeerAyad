@@ -15,8 +15,6 @@
 <p align="left">
 - HTML | CSS | JS(ES6)
 - React
-- Next Js
-- Typescript
 - Node Js
 - Express 
 - Postgress
