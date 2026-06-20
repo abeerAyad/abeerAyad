@@ -19,6 +19,10 @@
 - Express 
 - Postgress
 - MongoDB
+- PHP-LARAVEL
+- MySql
+- Metronic Admin Template
+- TailwindCss
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeerayad&show_icons=true&locale=en" alt="abeerayad" /></p>
